@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-telegram-bot",
+  "version": "1.0.0",
+  "description": "1. **main library**: [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)\r ![screenshot](screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdiller/nodejs-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdiller/nodejs-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/webdiller/nodejs-telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "request": "^2.88.0"
+  }
+}
